@@ -1,0 +1,12 @@
+{
+  "name": "correctfoldernames",
+  "version": "1.0.0",
+  "description": "reverse names of folders imported by playmemories",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pieter",
+  "license": "ISC"
+}
